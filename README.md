@@ -65,48 +65,6 @@ class JahanzebKhan:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="8">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jahanxb&show_icons=true&hide_border=true&bg_color=161b22&title_color=9E1B32&icon_color=9E1B32&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="185" alt="GitHub Stats"/>
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=jahanxb&theme=github-dark-blue&hide_border=true" height="185" alt="GitHub Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanxb&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="160" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jahanxb&theme=radical&no-frame=true&margin-w=6&row=1)
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahanxb&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## Tech Stack
 
 **Languages**
