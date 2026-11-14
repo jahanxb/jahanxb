@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9E1B32,231F20&height=280&section=header&text=Muhammad%20Jahanzeb%20Khan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=ML%20Researcher%20%7C%20Cybersecurity%20%7C%20Privacy%20Advocate&descAlignY=62&descAlign=50&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9E1B32&height=280&section=header&text=Muhammad%20Jahanzeb%20Khan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=ML%20Researcher%20%7C%20Cybersecurity%20%7C%20Privacy%20Advocate&descAlignY=62&descAlign=50&descSize=18&fontColor=ffffff&descColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E1B32&center=true&vCenter=true&random=false&width=680&lines=Machine+Learning+Researcher;Cybersecurity+Researcher;Privacy+Advocate;Cryptography+%26+Adversarial+ML;Federated+Learning+%7C+Privacy-Preserving+AI;Ph.D.+Candidate+%40+Univ.+of+Alabama)](https://git.io/typing-svg)
 
@@ -203,6 +203,6 @@ class JahanzebKhan:
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9E1B32,231F20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=9E1B32&height=120&section=footer)
 
 </div>
