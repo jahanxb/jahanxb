@@ -6,7 +6,6 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jahanxb&label=Profile%20Views&color=9E1B32&style=flat-square)](https://github.com/jahanxb)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanxb-khan/)&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=w1_pqnoAAAAJ)&nbsp;
 [![Homepage](https://img.shields.io/badge/Homepage-9E1B32?style=flat-square&logo=github&logoColor=white)](https://jahanxb.github.io)
@@ -75,12 +74,12 @@ class JahanzebKhan:
         <img src="https://github-readme-stats.vercel.app/api?username=jahanxb&show_icons=true&hide_border=true&bg_color=161b22&title_color=9E1B32&icon_color=9E1B32&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="185" alt="GitHub Stats"/>
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=jahanxb&theme=github-dark&hide_border=true&background=161b22&ring=9E1B32&fire=C41E3A&currStreakLabel=9E1B32&sideLabels=9E1B32&dates=8b949e&stroke=9E1B32" height="185" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com/?user=jahanxb&theme=github-dark-blue&hide_border=true" height="185" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanxb&layout=compact&hide_border=true&bg_color=161b22&title_color=9E1B32&text_color=c9d1d9&langs_count=10&card_width=600" height="160" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanxb&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="160" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -92,7 +91,7 @@ class JahanzebKhan:
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jahanxb&theme=darkhub&no-frame=true&margin-w=6&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jahanxb&theme=radical&no-frame=true&margin-w=6&row=1)
 
 </div>
 
@@ -102,7 +101,7 @@ class JahanzebKhan:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahanxb&bg_color=161b22&color=9E1B32&line=9E1B32&point=ffffff&area=true&hide_border=true&area_color=1a0308&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahanxb&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
