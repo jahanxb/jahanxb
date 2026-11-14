@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9E1B32,231F20&height=280&section=header&text=Muhammad%20Jahanzeb%20Khan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Ph.D.%20Candidate%20%7C%20Security%20of%20ML%20for%20Connected%20Vehicles&descAlignY=62&descAlign=50&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9E1B32,231F20&height=280&section=header&text=Muhammad%20Jahanzeb%20Khan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=ML%20Researcher%20%7C%20Cybersecurity%20%7C%20Privacy%20Advocate&descAlignY=62&descAlign=50&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E1B32&center=true&vCenter=true&random=false&width=680&lines=Adversarial+ML+Researcher;Security+of+Connected+Vehicles;Federated+Learning+Security;LLM+Security+%26+Deployment;Ph.D.+Candidate+%40+Univ.+of+Alabama)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E1B32&center=true&vCenter=true&random=false&width=680&lines=Machine+Learning+Researcher;Cybersecurity+Researcher;Privacy+Advocate;Cryptography+%26+Adversarial+ML;Federated+Learning+%7C+Privacy-Preserving+AI;Ph.D.+Candidate+%40+Univ.+of+Alabama)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,21 +20,18 @@
 class JahanzebKhan:
     name         = "Muhammad Jahanzeb Khan"
     goes_by      = "Jahanzeb Khan (JK)"
+    identity     = ["ML Researcher", "Cybersecurity Researcher", "Privacy Advocate"]
     role         = "Ph.D. Candidate in Computer Science"
     university   = "The University of Alabama, Tuscaloosa"
     advisor      = "Dr. Ahmad Alsharif"
     defense      = "Spring 2027"
-    dissertation = (
-        "Adversarial Threats and Defenses Across Trust Boundaries "
-        "in Connected and Automated Vehicles"
-    )
-    research     = [
+    interests    = [
         "Adversarial Machine Learning",
-        "Security & Robustness of Federated Learning",
-        "Privacy-Preserving AI & Encrypted Computation",
-        "Applied Cryptography for Connected Vehicles & EV Charging",
-        "Security of LLM-based Systems and Agents",
-        "Trustworthy AI for Cyber-Physical Systems",
+        "Cryptography & Applied Crypto",
+        "Privacy-Preserving AI (HE, Differential Privacy)",
+        "Federated Learning Security",
+        "Security of LLM-based Systems",
+        "Connected & Automated Vehicle Security",
     ]
     industry_xp  = "5+ years — Backend Dev, DevOps, Data Engineering, Team Lead"
     fun_fact     = "Mentored NSF REU undergrad researchers for 4 consecutive summers"
