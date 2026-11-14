@@ -1,50 +1,261 @@
-# Muhammad Jahanzeb Khan
+<div align="center">
 
-[Google Scholar](https://scholar.google.com/citations?user=w1_pqnoAAAAJ&hl=en) | [GitHub](https://github.com/jahanxb) | [LinkedIn](https://www.linkedin.com/in/jahanxb-khan/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9E1B32,231F20&height=280&section=header&text=Muhammad%20Jahanzeb%20Khan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Ph.D.%20Candidate%20%7C%20Security%20of%20ML%20for%20Connected%20Vehicles&descAlignY=62&descAlign=50&descSize=18)
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E1B32&center=true&vCenter=true&random=false&width=680&lines=%F0%9F%94%90+Adversarial+ML+Researcher;%F0%9F%9A%97+Security+of+Connected+Vehicles;%F0%9F%94%92+Federated+Learning+Security;%F0%9F%A4%96+LLM+Security+%26+Deployment;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+NSF+REU+Research+Mentor+%284+years%29;%F0%9F%8E%93+Ph.D.+Candidate+%40+Univ.+of+Alabama)](https://git.io/typing-svg)
 
-I am currently pursuing a PhD at the University of Alabama, Tuscaloosa, USA. 
+<br>
 
-- **Doctor of Philosophy in Computer Science (PhD CS)**  
-  University of Alabama, Tuscaloosa, USA  
-  *January 2024 – Present*
+[![Profile Views](https://komarev.com/ghpvc/?username=jahanxb&label=Profile%20Views&color=9E1B32&style=flat-square)](https://github.com/jahanxb)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanxb-khan/)&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w1_pqnoAAAAJ)&nbsp;
+[![Homepage](https://img.shields.io/badge/Homepage-9E1B32?style=flat-square&logo=google-chrome&logoColor=white)](https://jahanxb.github.io)
 
-## Work Experience
+</div>
 
-### Backend Developer
-**Pixarsart**  
-*January 2021 – December 2021*  
+---
 
-### Backend & DevOps Engineer
-**Meecube**  
-*January 2020 – January 2021*  
+## 🎓 About Me
 
-### Junior Data Scientist
-**Block Dynamics**  
-*September 2019 – January 2020*  
+```python
+class JahanzebKhan:
+    name         = "Muhammad Jahanzeb Khan"
+    goes_by      = "Jahanzeb Khan (JK)"
+    role         = "Ph.D. Candidate in Computer Science"
+    university   = "The University of Alabama, Tuscaloosa"
+    advisor      = "Dr. Ahmad Alsharif"
+    defense      = "Spring 2027"
+    dissertation = (
+        "Adversarial Threats and Defenses Across Trust Boundaries "
+        "in Connected and Automated Vehicles"
+    )
+    research     = [
+        "Adversarial Machine Learning",
+        "Security & Robustness of Federated Learning",
+        "Privacy-Preserving AI & Encrypted Computation",
+        "Applied Cryptography for Connected Vehicles & EV Charging",
+        "Security of LLM-based Systems and Agents",
+        "Trustworthy AI for Cyber-Physical Systems",
+    ]
+    industry_xp  = "5+ years — Backend Dev, DevOps, Data Engineering, Team Lead"
+    fun_fact     = "Mentored NSF REU undergrad researchers for 4 consecutive summers"
+```
 
-### .Net Developer (Trainee Intern)
-**Wicresoft**  
-*May 2019 – August 2019*  
+<br>
 
-### Java Developer (Intern)
-**KSJ Cloud**  
-*June 2018 – September 2018*  
+<div align="center">
 
-### Associate Software Engineer
-**TSCreators**  
-*September 2016 – September 2017*  
+| 🎓 Education | 📅 Years |
+|---|---|
+| Ph.D., Computer Science — University of Alabama | 2024 to 2027 |
+| M.S., Computer Science — University of Nevada, Reno | 2022 to 2024 |
+| M.S., Software Engineering — Shanghai Jiao Tong University | 2017 to 2019 |
+| B.S., Computer Science — NFC IET, Pakistan | 2012 to 2016 |
 
+</div>
 
-## Skills
+---
 
-- **AI Tools**: Expertise in PyTorch, TensorFlow, CNNs, RNNs, and transformer models.  
-- **Federated Learning**: Proficient in PySyft, FlowerFL, FedML, PyTorch FL.  
-- **Cryptography**: Homomorphic Encryptions, Functional Encryption, Public Key Encryptions, Digital Signatures.
-- **Programming Languages**: Python, JavaScript, C, VB.NET, Java, Bash.  
-- **Operating Systems**: Windows, Linux, macOS.  
-- **Database Management**: MongoDB, MySQL, PostgreSQL, Apache Cassandra, Redis.  
-- **DevOps Tools**: Docker, GitLab, Jenkins, AWS, Google Cloud, RabbitMQ.  
-- **Analytical Skills**: Good problem-solving through research in AI, encryption, and data processing.  
-- **Frontend**: HTML, CSS, ReactJS, jQuery.
+## 🔭 What I'm Working On
+
+- 🏆 **IEEE ITSC 2026** — KL-divergence based poisoning detection for vehicular federated learning *(Best Paper Award Shortlist)*
+- 🔌 **USENIX VehicleSec 2026** — Certificateless, non-interactive key establishment for secure EV charging on real hardware
+- ✍️ Journal extension: stronger and adaptive attackers in federated poisoning defense
+- 🚁 **NSF REU 2026** — Adversarial patches against YOLO-based drone vehicle detection
+- 📄 Manuscripts in preparation (3): titles confidential
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jahanxb&show_icons=true&hide_border=true&bg_color=0d0205&title_color=9E1B32&icon_color=9E1B32&text_color=cccccc&include_all_commits=true&count_private=true&rank_icon=github" height="185" alt="GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=jahanxb&theme=dark&hide_border=true&background=0d0205&ring=9E1B32&fire=C41E3A&currStreakLabel=9E1B32&sideLabels=9E1B32&dates=888888&stroke=9E1B32" height="185" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanxb&layout=compact&hide_border=true&bg_color=0d0205&title_color=9E1B32&text_color=cccccc&langs_count=10&card_width=600" height="160" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jahanxb&theme=radical&no-frame=true&margin-w=6&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahanxb&bg_color=0d0205&color=9E1B32&line=9E1B32&point=ffffff&area=true&hide_border=true&area_color=1a0308&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**AI / ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Federated Learning**
+
+![Flower](https://img.shields.io/badge/Flower_(flwr)-9E1B32?style=for-the-badge&logoColor=white)
+![PySyft](https://img.shields.io/badge/PySyft-231F20?style=for-the-badge&logoColor=white)
+![FedML](https://img.shields.io/badge/FedML-4285F4?style=for-the-badge&logoColor=white)
+![TFF](https://img.shields.io/badge/TensorFlow_Federated-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Security & Cryptography**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![CKKS/HE](https://img.shields.io/badge/Homomorphic_Encryption_(CKKS%2FBFV)-9E1B32?style=for-the-badge&logoColor=white)
+![Differential Privacy](https://img.shields.io/badge/Differential_Privacy-700D22?style=for-the-badge&logoColor=white)
+![ISO 15118](https://img.shields.io/badge/ISO_15118_(EV_Charging)-231F20?style=for-the-badge&logoColor=white)
+
+**LLMs & Agents**
+
+![Llama](https://img.shields.io/badge/Llama_(8B--24B)-0467DF?style=for-the-badge&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen_(8B--24B)-6B57C6?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logoColor=white)
+![Agent Pipelines](https://img.shields.io/badge/Agent_Pipelines-20B2AA?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
+
+**Systems / DevOps / Cloud**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC_Clusters-9E1B32?style=for-the-badge&logoColor=white)
+
+**Data Engineering**
+
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 📚 Selected Publications
+
+> Full list on [Google Scholar](https://scholar.google.com/citations?user=w1_pqnoAAAAJ)
+
+| # | Title | Venue | Year | Role |
+|:-:|---|---|:-:|:-:|
+| 1 | Mitigating Targeted Poisoning in Vehicular Federated Traffic Sign Classification via KL-Divergence Detection | **IEEE ITSC** ⭐ | 2026 | 1st Author |
+| 2 | Demo: Certificateless and Non-Interactive Key Establishment for Secure CCS EV Charging | **USENIX VehicleSec** | 2026 | 1st Author |
+| 3 | Query-Free Adversarial Malware Generation Using Conditional Denoising Diffusion | **IEEE SATC** | 2026 | 3rd Author |
+| 4 | Privacy-Preserving AI on Edge Devices: A Homomorphic Encryption Approach | **IEEE ICWS** | 2024 | 1st Author |
+| 5 | Privacy-Enhanced Image Restoration in Remote Sensing via Federated Learning | **IEEE ISDFS** | 2024 | 1st Author |
+| 6 | Model-Decoupled Federated Learning: Database Adaptability and Neural Architectural Dynamics | — | 2024 | 1st Author |
+| 7 | Federated Learning for Image Classification and Medical Imaging Analysis | **ACM SIGKDD Workshop** | 2023 | 1st Author |
+| 8 | Efficient Privacy-Preserving ConvLSTM Detection of Electricity Theft in Smart Grids | **IEEE Access** | 2024 | 2nd Author |
+
+*⭐ Best Paper Award Shortlist*
+
+---
+
+## 🏅 Honors & Awards
+
+<div align="center">
+
+| Award | Year |
+|---|:-:|
+| 🏆 Best Paper Award Shortlist — IEEE ITSC 2026 | 2026 |
+| ✈️ Graduate School Travel Grant — University of Alabama (VehicleSec) | 2026 |
+| 🏴 5th Place, CTF Challenge — UNR Cybersecurity Conference | 2023 |
+| 🎓 Chinese Government Scholarship (CSC) — SJTU | 2017 |
+| 🥇 Academic Excellence Award — NFC IET | 2015 |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanxb-khan/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar_Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w1_pqnoAAAAJ)
+[![Academic Homepage](https://img.shields.io/badge/Academic_Homepage-9E1B32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahanxb.github.io)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jahanxb)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanxb/jahanxb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahanxb/jahanxb/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/jahanxb/jahanxb/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Security is not a product, but a process." — Bruce Schneier*
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=9E1B32,231F20&height=120&section=footer)
+
+</div>
