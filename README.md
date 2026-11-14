@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9E1B32&height=280&section=header&text=Muhammad%20Jahanzeb%20Khan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=ML%20Researcher%20%7C%20Cybersecurity%20%7C%20Privacy%20Advocate&descAlignY=62&descAlign=50&descSize=18&fontColor=ffffff&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9E1B32&height=280&section=header&text=Muhammad%20Jahanzeb%20Khan&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Ph.D.%20Candidate%20in%20Computer%20Science%20%7C%20University%20of%20Alabama&descAlignY=62&descAlign=50&descSize=16&descColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E1B32&center=true&vCenter=true&random=false&width=680&lines=Machine+Learning+Researcher;Cybersecurity+Researcher;Privacy+Advocate;Cryptography+%26+Adversarial+ML;Federated+Learning+%7C+Privacy-Preserving+AI;Ph.D.+Candidate+%40+Univ.+of+Alabama)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E1B32&center=true&vCenter=true&random=false&width=680&lines=Adversarial+Machine+Learning;Federated+Learning+Security;Privacy-Preserving+AI;Applied+Cryptography;Security+of+Connected+Vehicles;LLM+Security+%26+Deployment)](https://git.io/typing-svg)
 
 <br>
 
@@ -181,28 +181,3 @@ class JahanzebKhan:
 
 </div>
 
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanxb/jahanxb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahanxb/jahanxb/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/jahanxb/jahanxb/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-*"Security is not a product, but a process." — Bruce Schneier*
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9E1B32&height=120&section=footer)
-
-</div>
